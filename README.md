@@ -9,3 +9,5 @@
 [01/17 Python grammar](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2017%20Python%20grammar%209a3560eb0211475da2c7033c7f1f9781.md)
 
 [01/18 python grammar](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2018%20python%20grammar%209b3051294a214e278071104fac562405.md)
+
+[01/19 python grammar](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2019%20python%20grammar%2033530aa670664fae8bedbbaf77822be5.md)
