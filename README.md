@@ -15,3 +15,5 @@
 [01/20 python grammar](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2020%20python%20grammar%203c2a656e530547a893dbcf90ae3ba23d.md)
 
 [01/22 python grammar](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2022%20python%20grammar%20ae3ae1ee5f034267bd4c1f76c151caef.md)
+
+[01/24 python grammar (review)](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2024%20python%20grammar%20(review)%2085397ae339844430ae27360d74372733.md)
