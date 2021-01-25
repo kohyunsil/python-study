@@ -21,3 +21,5 @@
 [01/23 python grammar (review)](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2023%20python%20grammar%20(review)%2085397ae339844430ae27360d74372733.md)
 
 [01/24 python grammar (review)](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2024%20python%20grammar%20(review)%20973a3f988a334259bc873dc257f57978.md)
+
+[01/25 python grammar (review)](workspace%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2025%20python%20grammar%20(review)%2075e6b08b2dc9425080da52bbafdf43fb.md)
