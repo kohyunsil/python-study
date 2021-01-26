@@ -1,4 +1,4 @@
-# 01/24 python grammar (review)
+# 01/24 python grammar (review)+new quiz
 
 - quiz 4
 
@@ -100,9 +100,9 @@ for name in names:
 """)
 ```
 
-![01%2024%20python%20grammar%20(review)%20973a3f988a334259bc873dc257f57978/Untitled.png](01%2024%20python%20grammar%20(review)%20973a3f988a334259bc873dc257f57978/Untitled.png)
+![01%2024%20python%20grammar%20(review)+new%20quiz%20973a3f988a334259bc873dc257f57978/Untitled.png](01%2024%20python%20grammar%20(review)+new%20quiz%20973a3f988a334259bc873dc257f57978/Untitled.png)
 
-![01%2024%20python%20grammar%20(review)%20973a3f988a334259bc873dc257f57978/Untitled%201.png](01%2024%20python%20grammar%20(review)%20973a3f988a334259bc873dc257f57978/Untitled%201.png)
+![01%2024%20python%20grammar%20(review)+new%20quiz%20973a3f988a334259bc873dc257f57978/Untitled%201.png](01%2024%20python%20grammar%20(review)+new%20quiz%20973a3f988a334259bc873dc257f57978/Untitled%201.png)
 
 - 다양한 출력포맷
 

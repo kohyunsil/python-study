@@ -23,7 +23,6 @@ else:
 ```
 
 - for / while
-- for / while
 
 ```python
 #################### for
