@@ -8,7 +8,7 @@ theater.price(3)
 theater.price_morning(4)
 theater.price_soldier(5)
 
-import theater as mv                              # 모듈 별명 mv 지정
+import theater as mv                           # 모듈 별명 mv 지정
 mv.price(3)
 mv.price_morning(4)
 mv.price_soldier(5)
@@ -58,7 +58,7 @@ print(dir(name))
 ```python
 # 외장함수
 
-# glob : 경로 내의 폴더 / 파일 목록 조회 (윈도우에서의 dir)
+# glob : 경로 내의 폴더 / 파일 목록 조회 (윈도우에서의 d ir)
 
 import glob
 print(glob.glob("*.py")) #확장자가 py인 모든 파일
@@ -82,17 +82,17 @@ else:
 - time 외장함수
 
 ```python
-import time
+1 import time
 print(time.localtime())
 print(time.strftime("%Y-%m-%d %H:%M:%S"))
 
-import datetime
+import datetime 1
 print("오늘 날짜는 ",datetime.date.today())
 
 #timedelta : 두 날짜 사이의 간격
 today=datetime.date.today() # 오늘 날짜 저장
 td = datetime.timedelta(days=100)
-print("우리가 만난지 100일은", today+td) # 오늘부터 100일 후
+print("우리가 만난지 100일은", today+td) # 오늘부터 100일 후 
 ```
 
 - quiz 10
