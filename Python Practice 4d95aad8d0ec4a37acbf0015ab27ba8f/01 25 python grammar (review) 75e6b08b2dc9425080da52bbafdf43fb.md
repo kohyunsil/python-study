@@ -21,7 +21,7 @@ cat1.meow()  #cat이 구현한 메소드 호출
 ```python
 class Cat:
 	def meow(self): #meow() 메소드
-		print("야옹 야옹 ~~~")
+			print("야옹 야옹 ~~~")
 
 cat1 = Cat()
 cat1.meow()

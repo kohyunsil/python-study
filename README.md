@@ -27,3 +27,5 @@ Study - 2. review
 [01/26 python grammar (review)+new quiz](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2026%20python%20grammar%20(review)+new%20quiz%206ff84954384a454cb2400ff8d08b4e81.md)
 
 [01/27 python new quiz](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2027%20python%20new%20quiz%20522325badba04009ae49b30aae01730e.md)
+
+[01/29 python new quiz](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2029%20python%20new%20quiz%205468acbd01e34fc1adba800677aca51f.md)
