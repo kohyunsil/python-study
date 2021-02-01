@@ -29,3 +29,7 @@ Study - 2. review
 [01/27 python new quiz](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2027%20python%20new%20quiz%20522325badba04009ae49b30aae01730e.md)
 
 [01/29 python new quiz](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2029%20python%20new%20quiz%205468acbd01e34fc1adba800677aca51f.md)
+
+Study - 3. new start~
+
+[02/01 python practice+pygame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2001%20python%20practice+pygame%209c7548d320784091b694da014effe00e.md)
