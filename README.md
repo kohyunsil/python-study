@@ -33,3 +33,5 @@ Study - 2. review
 Study - 3. new start~
 
 [02/01 python practice+pygame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2001%20python%20practice+pygame%209c7548d320784091b694da014effe00e.md)
+
+[02/03 python practice+pygame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2003%20python%20practice+pygame%209b15132eeb174be9942074e3fcf7089f.md)
