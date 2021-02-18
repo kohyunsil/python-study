@@ -37,3 +37,7 @@ Study - 3. new start~
 [02/03 python practice+pygame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2003%20python%20practice+pygame%209b15132eeb174be9942074e3fcf7089f.md)
 
 [02/04 python GUI program](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2004%20python%20GUI%20program%20fadede5ac63748d29ef0a21407c839ca.md)
+
+Study - 4. Jupiter notebook
+
+[02/18 jupyternotebook day4](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2018%20jupyternotebook%20day4%20f60ab3e86809427d979d25fdc737da3d.md)
