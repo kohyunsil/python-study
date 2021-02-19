@@ -41,3 +41,5 @@ Study - 3. new start~
 Study - 4. Jupiter notebook
 
 [02/18 jupyternotebook day4](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2018%20jupyternotebook%20day4%20f60ab3e86809427d979d25fdc737da3d.md)
+
+[02/19 jupyternotebook day5](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2019%20jupyternotebook%20day5%203f4a4de6169d442da8e64c7fa7bef546.md)
