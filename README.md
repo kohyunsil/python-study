@@ -38,8 +38,10 @@ Study - 3. new start~
 
 [02/04 python GUI program](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2004%20python%20GUI%20program%20fadede5ac63748d29ef0a21407c839ca.md)
 
-Study - 4. Jupiter notebook
+fast campus
 
 [02/18 jupyternotebook day4](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2018%20jupyternotebook%20day4%20f60ab3e86809427d979d25fdc737da3d.md)
 
 [02/19 jupyternotebook day5](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2019%20jupyternotebook%20day5%203f4a4de6169d442da8e64c7fa7bef546.md)
+
+[02/23 fastcampus](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2023%20fastcampus%208f89fb365d6e4974a5328db2a4936b11.md)
