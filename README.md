@@ -44,4 +44,6 @@ fast campus
 
 [02/19 jupyternotebook day5](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2019%20jupyternotebook%20day5%203f4a4de6169d442da8e64c7fa7bef546.md)
 
-[02/23 fastcampus](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2023%20fastcampus%208f89fb365d6e4974a5328db2a4936b11.md)
+[02/23 fastcampus(python)](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2023%20fastcampus(python)%208f89fb365d6e4974a5328db2a4936b11.md)
+
+[02/24 fastcampus(python)](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2024%20fastcampus(python)%200be1e515517f42e1b62aad82e49d8a23.md)
