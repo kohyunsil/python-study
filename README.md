@@ -49,3 +49,7 @@ fast campus
 [02/24 fastcampus(python)](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2024%20fastcampus(python)%200be1e515517f42e1b62aad82e49d8a23.md)
 
 [03/02 fastcampus(fibona chicken) & CLASS](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2002%20fastcampus(fibona%20chicken)%20&%20CLASS%204d9b4685d3294502818c287553e23256.md)
+
+[03/04 fastcampus](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2004%20fastcampus%202bfc350740af4b3198cc6bd6613a05e7.md)
+
+[03/05 numpy 01](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2005%20numpy%2001%20425e97cb18ca4e38828aed3f7900fa38.md)
