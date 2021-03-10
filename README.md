@@ -38,7 +38,7 @@ Study - 3. new start~
 
 [02/04 python GUI program](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2004%20python%20GUI%20program%20fadede5ac63748d29ef0a21407c839ca.md)
 
-fast campus
+fast campus 1. python, numpy, pandas
 
 [02/18 jupyternotebook day4](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2018%20jupyternotebook%20day4%20f60ab3e86809427d979d25fdc737da3d.md)
 
@@ -55,3 +55,9 @@ fast campus
 [03/05 numpy 01](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2005%20numpy%2001%20425e97cb18ca4e38828aed3f7900fa38.md)
 
 [03/06 numpy - Correlation Coefficient](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2006%20numpy%20-%20Correlation%20Coefficient%20651212326b1c4c72be5b272253fa7d77.md)
+
+[03/10 linked list](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2010%20linked%20list%202dca4439670a45148808962f76e6ccc4.md)
+
+[03/10 Pandas_series](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2010%20Pandas_series%20fd707da28dd6468ab2b589f06d5c2e60.md)
+
+[03/10 Pandas_DataFrame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2010%20Pandas_DataFrame%20a098f3edcc1e4105a80c9c79da5ba7ee.md)
