@@ -65,3 +65,5 @@ fast campus 1. python, numpy, pandas
 [03/12 Pandas_DataFrame_2](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2012%20Pandas_DataFrame_2%20a339e9cdbfda45609791f105f3d59176.md)
 
 [03/13 Pandas_DataFrame_inputoutput](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2013%20Pandas_DataFrame_inputoutput%2082e5e7a677ca456bbb1ef15ec6687539.md)
+
+[03/15 python practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2015%20python%20practice%209042ff1018a24c9a8d890f680ecb6d8d.md)
