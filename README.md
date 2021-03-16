@@ -69,3 +69,5 @@ fast campus 1. python, numpy, pandas
 [03/15 python practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2015%20python%20practice%209042ff1018a24c9a8d890f680ecb6d8d.md)
 
 [03/16 Basic of Regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2016%20Basic%20of%20Regression%204638f56862394a209fb8c57412212eb3.md)
+
+[03/16 회귀와 Cost Function](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df.md)
