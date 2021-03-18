@@ -1,20 +1,6 @@
 # Python Practice
 
-Study - 1. start
-
-[01/15 Python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2015%20Python%20grammar%20c8d7312563e741c5820297beb44fe2b9.md)
-
-[01/16 Python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2016%20Python%20grammar%206db7e77a2fda4ba39ac95901bdc5bc68.md)
-
-[01/17 Python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2017%20Python%20grammar%209a3560eb0211475da2c7033c7f1f9781.md)
-
-[01/18 python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2018%20python%20grammar%209b3051294a214e278071104fac562405.md)
-
-[01/19 python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2019%20python%20grammar%2033530aa670664fae8bedbbaf77822be5.md)
-
-[01/20 python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2020%20python%20grammar%203c2a656e530547a893dbcf90ae3ba23d.md)
-
-Study - 2. review
+Study - review
 
 [01/22 python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2022%20python%20grammar%20ae3ae1ee5f034267bd4c1f76c151caef.md)
 
@@ -30,7 +16,7 @@ Study - 2. review
 
 [01/29 python new quiz](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2029%20python%20new%20quiz%205468acbd01e34fc1adba800677aca51f.md)
 
-Study - 3. new start~
+new start~
 
 [02/01 python practice+pygame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2001%20python%20practice+pygame%209c7548d320784091b694da014effe00e.md)
 
@@ -73,3 +59,5 @@ fast campus 1. python, numpy, pandas
 [03/16 회귀와 Cost Function](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df.md)
 
 [03/17 Preprocessing](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2017%20Preprocessing%209b9dbe2b5d334c95a17cca9b9f1e6280.md)
+
+[03/18 math basic](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2018%20math%20basic%2011bf88a05f7c4d27bf21cb7c957baf58.md)
