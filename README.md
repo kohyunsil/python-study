@@ -61,3 +61,7 @@ fast campus 1. python, numpy, pandas
 [03/17 Preprocessing](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2017%20Preprocessing%209b9dbe2b5d334c95a17cca9b9f1e6280.md)
 
 [03/18 math basic](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2018%20math%20basic%2011bf88a05f7c4d27bf21cb7c957baf58.md)
+
+[03/19 Matplotlib](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2019%20Matplotlib%2088a5778725804ffa96ee521dbe5c661e.md)
+
+[03/19 matplotlib2](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b.md)
