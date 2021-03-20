@@ -1,4 +1,4 @@
-# 03/19 matplotlib2
+# 03/19 Matplotlib2
 
 bar
 
@@ -18,7 +18,7 @@ plt.bar(range(len(datas)), datas, width=0.4, alpha=0.4, yerr=error)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled.png)
 
 ```python
 datas = np.random.randint(5, 10, size=5)
@@ -27,7 +27,7 @@ plt.barh(range(len(datas)), datas, alpha=0.4, xerr=error)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%201.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%201.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%201.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%201.png)
 
 ```python
 datas_1 = np.random.randint(5, 10, size=5)
@@ -37,7 +37,7 @@ plt.bar(range(len(datas_1)), datas_1)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%202.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%202.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%202.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%202.png)
 
 ```python
 datas_1 = np.random.randint(5, 10, size=5)
@@ -47,7 +47,7 @@ plt.bar(range(len(datas_1)), datas_1)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%203.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%203.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%203.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%203.png)
 
 pie 차트
 
@@ -56,7 +56,7 @@ plt.pie(datas, labels=list("ABCDE"), autopct="%1.2f%%")
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%204.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%204.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%204.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%204.png)
 
 scatter plot
 
@@ -69,7 +69,7 @@ plt.scatter(x, y)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%205.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%205.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%205.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%205.png)
 
 ```python
 x = np.random.randn(500)
@@ -78,7 +78,7 @@ plt.scatter(x, y)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%206.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%206.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%206.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%206.png)
 
 ```python
 x = np.random.randint(100, size=500)
@@ -87,7 +87,7 @@ plt.scatter(x, y)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%207.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%207.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%207.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%207.png)
 
 ```python
 x = np.random.randint(10, size=20)
@@ -98,7 +98,7 @@ plt.scatter(x, y, c=colors, s=area, alpha=0.5)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%208.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%208.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%208.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%208.png)
 
 histogram
 
@@ -108,7 +108,7 @@ plt.hist(y)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%209.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%209.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%209.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%209.png)
 
 Seaborn
 
@@ -127,7 +127,7 @@ plt.plot(datas)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2010.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2010.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2010.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2010.png)
 
 ```python
 sns.set_style("whitegrid") # default가 darkgrid
@@ -135,7 +135,7 @@ plt.plot(datas)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2011.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2011.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2011.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2011.png)
 
 컬러 테마 변경
 
@@ -155,7 +155,7 @@ for _ in range(5):
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2012.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2012.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2012.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2012.png)
 
 Examples
 
@@ -172,14 +172,14 @@ sns.lmplot("sepal_length", "sepal_width", data=iris, hue="species")
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2013.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2013.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2013.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2013.png)
 
 ```python
 sns.pairplot(iris, hue="species")
 plt.show().  # 각 컬럼별로 산점도를 그려준다.
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2014.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2014.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2014.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2014.png)
 
 heat map : 컬럼별 상관계수 출력시 자주 사용
 
@@ -195,18 +195,30 @@ sns.heatmap(df)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2015.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2015.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2015.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2015.png)
 
 ```python
 sns.heatmap(df, cmap="YlGnBu", annot=True, fmt="d")
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2016.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2016.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2016.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2016.png)
 
 ```python
 sns.heatmap(iris.corr(), cmap="YlGnBu", annot=True)
 plt.show()
 ```
 
-![03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2017.png](03%2019%20matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2017.png)
+![03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2017.png](03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b/Untitled%2017.png)
+
+pandas 에서도 그래프 가능
+
+```python
+datas = {
+    "data1" :  np.random.randint(5, size=5),
+    "data2" :  np.random.randint(5, size=5),
+
+}
+df = pd.DataFrame(datas)
+df.plot()
+```
