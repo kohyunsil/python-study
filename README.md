@@ -69,3 +69,5 @@ fast campus 1. python, numpy, pandas
 [Folium (지리 정보 시각화)](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Folium%20(%E1%84%8C%E1%85%B5%E1%84%85%E1%85%B5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA)%202b0f7b68657e49bdbc383fc60cb57f8f.md)
 
 [Dask](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Dask%206b01b2959dff4debb74b1df6bdf8ae62.md)
+
+[Titanic_kaggle](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Titanic_kaggle%20cfa84db7cf664ba68c820253d071014c.md)
