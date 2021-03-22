@@ -71,3 +71,5 @@ fast campus 1. python, numpy, pandas
 [Dask](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Dask%206b01b2959dff4debb74b1df6bdf8ae62.md)
 
 [Titanic_kaggle](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Titanic_kaggle%20cfa84db7cf664ba68c820253d071014c.md)
+
+[hiperparameter](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/hiperparameter%2063dbbf4a57704f4aafa6d50d8cbd6981.md)
