@@ -73,3 +73,9 @@ fast campus 1. python, numpy, pandas
 [Titanic_kaggle](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Titanic_kaggle%20cfa84db7cf664ba68c820253d071014c.md)
 
 [hiperparameter](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/hiperparameter%2063dbbf4a57704f4aafa6d50d8cbd6981.md)
+
+[Box Plot, Scalers](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Box%20Plot,%20Scalers%20973e02ea6f8346739fe0add4c1751400.md)
+
+fast campus 2
+
+[Web_scraping](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Web_scraping%203ffa85ce8a1f4c5087000ece9b393c50.md)
