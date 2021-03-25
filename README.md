@@ -2,6 +2,8 @@
 
 Study - review
 
+
+
 [01/22 python grammar](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2022%20python%20grammar%20ae3ae1ee5f034267bd4c1f76c151caef.md)
 
 [01/23 python grammar (review)](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2023%20python%20grammar%20(review)%2085397ae339844430ae27360d74372733.md)
