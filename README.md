@@ -81,3 +81,5 @@ fast campus 2
 [Web_scraping](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Web_scraping%203ffa85ce8a1f4c5087000ece9b393c50.md)
 
 [변화율과 도함수](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%84%8B%E1%85%B2%E1%86%AF%E1%84%80%E1%85%AA%20%E1%84%83%E1%85%A9%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20be0c7978ab3540db9655a8fe78737ec1.md)
+
+[Logistic Regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Logistic%20Regression%20e85ccf01bbfb4cc0b352d55178159532.md)
