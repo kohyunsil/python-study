@@ -84,6 +84,8 @@ fast campus 2
 
 [Logistic Regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Logistic%20Regression%20e85ccf01bbfb4cc0b352d55178159532.md)
 
+[Example : GDP와 Life Satisfaction](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032.md)
+
 fast campus - Eda project practice
 
 [basic scraping & Matplotlib practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94.md)
