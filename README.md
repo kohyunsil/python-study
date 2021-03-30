@@ -86,6 +86,10 @@ fast campus 2
 
 [Example : GDP와 Life Satisfaction](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032.md)
 
+[Ensemble (앙상블)-Bagging](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c.md)
+
+[Ensemble (앙상블)-Boosting](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71.md)
+
 fast campus - Eda project practice
 
 [basic scraping & Matplotlib practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94.md)
