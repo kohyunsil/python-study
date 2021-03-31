@@ -90,6 +90,10 @@ fast campus 2
 
 [Ensemble (앙상블)-Boosting](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71.md)
 
+---
+
+[MYSQL](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/MYSQL%20b69b0c81814a4304a9361a2a81fc162e.md)
+
 fast campus - Eda project practice
 
 [basic scraping & Matplotlib practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94.md)
