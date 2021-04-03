@@ -1,4 +1,4 @@
-# Ensemble (앙상블)-Bagging
+# Ensemble-Bagging
 
 데이터 로드
 
@@ -20,7 +20,7 @@ feature_name = feature_name_df.iloc[:, 1].values.tolist()
 feature_name[:10]
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled.png)
 
 x 데이터
 
@@ -38,7 +38,7 @@ X_test.columns = feature_name
 X_train.head()
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%201.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%201.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%201.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%201.png)
 
  y 데이터 읽기
 
@@ -56,13 +56,13 @@ y_test = pd.read_csv(y_test_url, sep='\s+', header=None, names=['action'])
 X_train.shape, X_test.shape, y_train.shape, y_test.shape
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%202.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%202.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%202.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%202.png)
 
 ```python
 y_train['action'].value_counts()
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%203.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%203.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%203.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%203.png)
 
 결정나무
 
@@ -104,7 +104,7 @@ cv_results_df = pd.DataFrame(grid_cv.cv_results_)
 cv_results_df[['param_max_depth', 'mean_test_score', 'mean_train_score']]
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%204.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%204.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%204.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%204.png)
 
 실제 test 데이터에서의 결과
 
@@ -119,7 +119,7 @@ for depth in max_depths:
     print('Max_Depth =', depth, ', Accuracy = ', accuracy)
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%205.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%205.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%205.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%205.png)
 
 Best model 의 결과는
 
@@ -130,7 +130,7 @@ pred1 = best_df_clf.predict(X_test)
 accuracy_score(y_test, pred1)
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%206.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%206.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%206.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%206.png)
 
 RandomForestClassifier
 
@@ -164,7 +164,7 @@ target_col = ['rank_test_score', 'mean_test_score', 'param_n_estimators',
 cv_results_df[target_col].sort_values('rank_test_score').head()
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%207.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%207.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%207.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%207.png)
 
 Best model
 
@@ -172,7 +172,7 @@ Best model
 grid_cv.best_params_, grid_cv.best_score_
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%208.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%208.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%208.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%208.png)
 
 Test 데이터에 적용
 
@@ -185,11 +185,11 @@ pred1 = rf_clf_best.predict(X_test)
 accuracy_score(y_test, pred1)
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%209.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%209.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%209.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%209.png)
 
 각 특성들의 중요도가 개별적으로 높지 않다
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2010.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2010.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2010.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2010.png)
 
 ```python
 best_cols_values = rf_clf_best.feature_importances_
@@ -198,7 +198,7 @@ top20_cols = best_cols.sort_values(ascending=False)[:20]
 top20_cols
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2011.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2011.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2011.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2011.png)
 
 주요 특성 관찰
 
@@ -210,7 +210,7 @@ sns.barplot(x=top20_cols, y=top20_cols.index)
 plt.show(
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2012.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2012.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2012.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2012.png)
 
 20개 특성만 가지고 성능 확인
 
@@ -227,4 +227,4 @@ pred1_re = rf_clf_best_re.predict(X_test_re)
 accuracy_score(y_test, pred1_re)
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2013.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2013.png)
+![Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2013.png](Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c/Untitled%2013.png)

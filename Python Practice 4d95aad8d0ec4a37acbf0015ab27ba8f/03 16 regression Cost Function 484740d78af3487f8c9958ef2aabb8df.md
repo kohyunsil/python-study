@@ -1,4 +1,4 @@
-# 03/16 회귀와 Cost Function
+# 03/16 regression Cost Function
 
 예제
 
@@ -37,7 +37,7 @@ lm = sm.OLS(y_train, X_train).fit()
 lm.summary()
 ```
 
-![03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/_2021-03-16__12.56.46.png](03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/_2021-03-16__12.56.46.png)
+![03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/_2021-03-16__12.56.46.png](03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/_2021-03-16__12.56.46.png)
 
 예측
 
@@ -175,7 +175,7 @@ plt.plot([0,48], [0,48], 'r')
 plt.show()
 ```
 
-![03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png](03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png)
+![03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png](03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png)
 
 LSTAT를 사용하는 것이 맞는가?
 
@@ -201,11 +201,11 @@ print('RMSE of Test Data : ', rmse_test)
 
 처음값
 
-![03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%201.png](03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%201.png)
+![03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%201.png](03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%201.png)
 
 나중값
 
-![03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%202.png](03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%202.png)
+![03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%202.png](03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%202.png)
 
 - RMSE 값은 커질수록 성능이 나빠지는 것을 의미
 
@@ -223,6 +223,6 @@ plt.show()
 
 - 이전 결과 vs 이후 결과
 
-![03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png](03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png)
+![03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png](03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled.png)
 
-![03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%203.png](03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%203.png)
+![03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%203.png](03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df/Untitled%203.png)

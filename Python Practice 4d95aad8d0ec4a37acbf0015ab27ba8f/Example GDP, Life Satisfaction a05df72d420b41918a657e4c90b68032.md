@@ -1,4 +1,4 @@
-# Example : GDP와 Life Satisfaction
+# Example : GDP, Life Satisfaction
 
 데이터 로드, 정리
 
@@ -61,7 +61,7 @@ full_country_stats[["GDP per capita",
 full_country_stats.head()
 ```
 
-![Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled.png](Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled.png)
+![Example%20GDP,%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled.png](Example%20GDP,%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled.png)
 
 데이터 정리
 
@@ -103,7 +103,7 @@ country_stats.plot(kind='scatter', x="GDP per capita", y='Life satisfaction')
 plt.show()
 ```
 
-![Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%201.png](Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%201.png)
+![Example%20GDP,%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%201.png](Example%20GDP,%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%201.png)
 
 키프로스 GDP
 
@@ -116,4 +116,4 @@ X_new = [[22587]]
 print(model.predict(X_new))
 ```
 
-![Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%202.png](Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%202.png)
+![Example%20GDP,%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%202.png](Example%20GDP,%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032/Untitled%202.png)

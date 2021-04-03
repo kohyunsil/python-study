@@ -1,4 +1,4 @@
-# Ensemble (앙상블)-Boosting
+# Ensemble-Boosting
 
 - 배깅 - 데이터 전체를 학습
 - 부스팅 - 학습시키고 틀린것만 재학습
@@ -46,7 +46,7 @@ wine.hist(bins=10, figsize=(15,10))
 plt.show()
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled.png)
+![Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled.png](Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled.png)
 
  quality 별 다른 특성이 어떤지 확인
 
@@ -74,7 +74,7 @@ sns.countplot(wine['taste'])
 plt.show()
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%201.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%201.png)
+![Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%201.png](Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%201.png)
 
 한 번에 모델 테스트
 
@@ -110,7 +110,7 @@ for name, model in models:
     print(name, cv_results.mean(), cv_results.std())
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%202.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%202.png)
+![Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%202.png](Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%202.png)
 
 cross-validation 결과 확인 
 
@@ -123,7 +123,7 @@ ax.set_xticklabels(names)
 plt.show()
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%203.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%203.png)
+![Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%203.png](Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%203.png)
 
 테스트 데이터에 대한 평가 결과
 
@@ -136,4 +136,4 @@ for name, model in models:
     print(name, accuracy_score(y_test, pred))
 ```
 
-![Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%204.png](Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71/Untitled%204.png)
+![Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%204.png](Ensemble-Boosting%204edddca23f914501be408dec0d240f71/Untitled%204.png)

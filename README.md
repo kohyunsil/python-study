@@ -56,7 +56,7 @@ fast campus 1. python, numpy, pandas
 
 [03/16 Basic of Regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2016%20Basic%20of%20Regression%204638f56862394a209fb8c57412212eb3.md)
 
-[03/16 회귀와 Cost Function](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2016%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%8B%E1%85%AA%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df.md)
+[03/16 regression Cost Function](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2016%20regression%20Cost%20Function%20484740d78af3487f8c9958ef2aabb8df.md)
 
 [03/17 Preprocessing](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2017%20Preprocessing%209b9dbe2b5d334c95a17cca9b9f1e6280.md)
 
@@ -66,7 +66,7 @@ fast campus 1. python, numpy, pandas
 
 [03/19 Matplotlib2](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/03%2019%20Matplotlib2%203bec0adb1e8b4a548a6cbec055d5c07b.md)
 
-[Folium (지리 정보 시각화)](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Folium%20(%E1%84%8C%E1%85%B5%E1%84%85%E1%85%B5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA)%202b0f7b68657e49bdbc383fc60cb57f8f.md)
+[Folium](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Folium%202b0f7b68657e49bdbc383fc60cb57f8f.md)
 
 [Dask](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Dask%206b01b2959dff4debb74b1df6bdf8ae62.md)
 
@@ -80,15 +80,15 @@ fast campus 2
 
 [Web_scraping](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Web_scraping%203ffa85ce8a1f4c5087000ece9b393c50.md)
 
-[변화율과 도함수](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%84%8B%E1%85%B2%E1%86%AF%E1%84%80%E1%85%AA%20%E1%84%83%E1%85%A9%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20be0c7978ab3540db9655a8fe78737ec1.md)
+[practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/practice%20be0c7978ab3540db9655a8fe78737ec1.md)
 
 [Logistic Regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Logistic%20Regression%20e85ccf01bbfb4cc0b352d55178159532.md)
 
-[Example : GDP와 Life Satisfaction](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Example%20GDP%E1%84%8B%E1%85%AA%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032.md)
+[Example : GDP, Life Satisfaction](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Example%20GDP,%20Life%20Satisfaction%20a05df72d420b41918a657e4c90b68032.md)
 
-[Ensemble (앙상블)-Bagging](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c.md)
+[Ensemble-Bagging](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble-Bagging%20b769ff09b8c746f58f4f4e23f5f4433c.md)
 
-[Ensemble (앙상블)-Boosting](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble%20(%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF)-Boosting%204edddca23f914501be408dec0d240f71.md)
+[Ensemble-Boosting](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble-Boosting%204edddca23f914501be408dec0d240f71.md)
 
 MYSQL
 

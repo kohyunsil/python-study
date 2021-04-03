@@ -1,4 +1,4 @@
-# Folium (지리 정보 시각화)
+# Folium
 
 - folium : leaflet.js javascript에서 사용하는 지리정보 라이브러리를 python 버전으로 변환
     - !pip install folium==0.11.0 (설치)
