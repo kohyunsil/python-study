@@ -98,6 +98,4 @@ MYSQL
 
 fast campus - Eda project practice
 
-[basic scraping & Matplotlib practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94.md)
-
-[가설검정 : 특정요일의 웹툰 분포도](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/%E1%84%80%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%90%E1%85%B3%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%90%E1%85%AE%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%91%E1%85%A9%E1%84%83%E1%85%A9%2057f7302ef85f42dab4376c1653207926.md)
+[eda_project](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/eda_project%2094efa31c17f34ca5b01ecad364008846.md)

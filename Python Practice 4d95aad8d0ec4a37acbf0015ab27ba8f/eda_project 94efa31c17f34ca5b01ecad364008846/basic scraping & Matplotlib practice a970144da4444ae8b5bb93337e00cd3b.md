@@ -53,7 +53,7 @@ df = pd.DataFrame(datas, index=[0])
 df
 ```
 
-![basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94/Untitled.png](basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94/Untitled.png)
+![basic%20scraping%20&%20Matplotlib%20practice%20a970144da4444ae8b5bb93337e00cd3b/Untitled.png](basic%20scraping%20&%20Matplotlib%20practice%20a970144da4444ae8b5bb93337e00cd3b/Untitled.png)
 
 bar 그리기
 
@@ -64,4 +64,4 @@ plt.ylim(9.5, 10)
 plt.show()
 ```
 
-![basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94/Untitled%201.png](basic%20scraping%20&%20Matplotlib%20practice%207c6f68206cc346dd904b42eb4fa2ee94/Untitled%201.png)
+![basic%20scraping%20&%20Matplotlib%20practice%20a970144da4444ae8b5bb93337e00cd3b/Untitled%201.png](basic%20scraping%20&%20Matplotlib%20practice%20a970144da4444ae8b5bb93337e00cd3b/Untitled%201.png)
