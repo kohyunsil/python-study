@@ -90,6 +90,8 @@ fast campus 2
 
 [Ensemble-Boosting](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble-Boosting%204edddca23f914501be408dec0d240f71.md)
 
+[search-christmas](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/search-christmas%2013d84a8888fb4dc899c4364b94f42c00.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
