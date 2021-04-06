@@ -16,8 +16,6 @@ Study - review
 
 [01/29 python new quiz](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/01%2029%20python%20new%20quiz%205468acbd01e34fc1adba800677aca51f.md)
 
-new start~
-
 [02/01 python practice+pygame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2001%20python%20practice+pygame%209c7548d320784091b694da014effe00e.md)
 
 [02/03 python practice+pygame](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2003%20python%20practice+pygame%209b15132eeb174be9942074e3fcf7089f.md)
@@ -91,6 +89,8 @@ fast campus 2
 [Ensemble-Boosting](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Ensemble-Boosting%204edddca23f914501be408dec0d240f71.md)
 
 [search-christmas](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/search-christmas%2013d84a8888fb4dc899c4364b94f42c00.md)
+
+[def & class practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/def%20&%20class%20practice%20269036de5f1147ebadbfaf9c7191c5ed.md)
 
 MYSQL
 
