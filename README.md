@@ -98,6 +98,8 @@ MYSQL
 
 [DATABASE_2](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_2%201021b693b1d643a8b189f194d9c201e1.md)
 
+[DATABASE_3](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_3%205956ade27fb346468863c9ec2c35cdce.md)
+
 fast campus - Eda project practice
 
 [eda_project](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/eda_project%2094efa31c17f34ca5b01ecad364008846.md)
