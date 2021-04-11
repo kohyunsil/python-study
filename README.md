@@ -100,6 +100,8 @@ MYSQL
 
 [VIEW](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/VIEW%2000e84cf52b3946938d5bf28c10eedd96.md)
 
+[Trigger](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Trigger%20f2fe6cb7d9d5427fa6aef9ec57c08806.md)
+
 fast campus - Eda project practice
 
 [eda_project](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/eda_project%2094efa31c17f34ca5b01ecad364008846.md)
