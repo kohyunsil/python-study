@@ -90,6 +90,8 @@ fast campus 2
 
 [def & class practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/def%20&%20class%20practice%20269036de5f1147ebadbfaf9c7191c5ed.md)
 
+[Statistics](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Statistics%202841012fb19a46f3a46ba2ff2d751c78.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
