@@ -111,3 +111,5 @@ MYSQL
 fast campus - Eda project practice
 
 [eda_project](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/eda_project%2094efa31c17f34ca5b01ecad364008846.md)
+
+[eda_project2](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/eda_project2%203d68aa998bd74f96afc493f05d363c54.md)
