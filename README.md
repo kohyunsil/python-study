@@ -94,7 +94,9 @@ fast campus 2
 
 [PCA](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/PCA%200248ec03e7a24026bc8dcc52a3e54de9.md)
 
-[Eigen FAces](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Eigen%20FAces%2086fa6d662fdd4672b714dc11d0054e96.md)
+[Eigen Faces](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Eigen%20Faces%2086fa6d662fdd4672b714dc11d0054e96.md)
+
+[PCA Uses](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/PCA%20Uses%203b4f9bb088114a009b3974fa860ca89a.md)
 
 MYSQL
 
