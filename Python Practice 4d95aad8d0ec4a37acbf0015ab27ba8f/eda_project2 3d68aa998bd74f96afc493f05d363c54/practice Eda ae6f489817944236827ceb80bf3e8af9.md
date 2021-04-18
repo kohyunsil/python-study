@@ -104,6 +104,8 @@ plt.legend(bbox_to_anchor=(1.1, 1))
 plt.show()
 ```
 
+![practice%20Eda%20ae6f489817944236827ceb80bf3e8af9/Untitled.png](practice%20Eda%20ae6f489817944236827ceb80bf3e8af9/Untitled.png)
+
 ```python
 maxs = month_df.max(axis=0)
 maxs = pd.DataFrame(maxs)
@@ -138,4 +140,4 @@ plt.legend(bbox_to_anchor=(1.05, 1))
 plt.show()
 ```
 
-![practice%20Eda%20ae6f489817944236827ceb80bf3e8af9/Untitled.png](practice%20Eda%20ae6f489817944236827ceb80bf3e8af9/Untitled.png)
+![practice%20Eda%20ae6f489817944236827ceb80bf3e8af9/Untitled%201.png](practice%20Eda%20ae6f489817944236827ceb80bf3e8af9/Untitled%201.png)
