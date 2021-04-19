@@ -22,7 +22,7 @@ Study - review
 
 [02/04 python GUI program](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2004%20python%20GUI%20program%20fadede5ac63748d29ef0a21407c839ca.md)
 
-fast campus 1. python, numpy, pandas
+study_2 / python, numpy, pandas
 
 [02/18 jupyternotebook day4](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/02%2018%20jupyternotebook%20day4%20f60ab3e86809427d979d25fdc737da3d.md)
 
@@ -72,7 +72,7 @@ fast campus 1. python, numpy, pandas
 
 [Box Plot, Scalers](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Box%20Plot,%20Scalers%20973e02ea6f8346739fe0add4c1751400.md)
 
-fast campus 2
+study_3
 
 [Web_scraping](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Web_scraping%203ffa85ce8a1f4c5087000ece9b393c50.md)
 
@@ -97,6 +97,8 @@ fast campus 2
 [Eigen Faces](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Eigen%20Faces%2086fa6d662fdd4672b714dc11d0054e96.md)
 
 [PCA Uses](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/PCA%20Uses%203b4f9bb088114a009b3974fa860ca89a.md)
+
+[regression2, PolynomialFeatures](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/regression2,%20PolynomialFeatures%20cfffe7ab92ee460793690a5f7c5295cc.md)
 
 MYSQL
 
