@@ -100,6 +100,8 @@ study_3
 
 [regression2, PolynomialFeatures](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/regression2,%20PolynomialFeatures%20cfffe7ab92ee460793690a5f7c5295cc.md)
 
+[SVM 회귀](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/SVM%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%20ec2ba239b43c4b10a207fa08abaff155.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
