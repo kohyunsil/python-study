@@ -102,6 +102,8 @@ study_3
 
 [SVM 회귀](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/SVM%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%20ec2ba239b43c4b10a207fa08abaff155.md)
 
+[Beginning of deeplearning](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Beginning%20of%20deeplearning%20cb0f539de2e943f08e46a4761f7e1a8b.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
