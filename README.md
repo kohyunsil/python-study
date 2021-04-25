@@ -104,6 +104,8 @@ study_3
 
 [Beginning of deeplearning](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Beginning%20of%20deeplearning%20cb0f539de2e943f08e46a4761f7e1a8b.md)
 
+[Copy of Beginning of deeplearning](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Copy%20of%20Beginning%20of%20deeplearning%200b8f795b3a7949338432133308163ac6.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
