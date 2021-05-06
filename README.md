@@ -104,7 +104,9 @@ study_3
 
 [Beginning of deeplearning](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Beginning%20of%20deeplearning%20cb0f539de2e943f08e46a4761f7e1a8b.md)
 
-[Copy of Beginning of deeplearning](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Copy%20of%20Beginning%20of%20deeplearning%200b8f795b3a7949338432133308163ac6.md)
+[mnist](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/mnist%200b8f795b3a7949338432133308163ac6.md)
+
+[Logistic Regression use](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Logistic%20Regression%20use%20b6643581aa32416ca7db4a0f0185b5cb.md)
 
 MYSQL
 
