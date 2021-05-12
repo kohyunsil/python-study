@@ -72,6 +72,8 @@ study_2 / python, numpy, pandas
 
 [Box Plot, Scalers](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Box%20Plot,%20Scalers%20973e02ea6f8346739fe0add4c1751400.md)
 
+[Selenium](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Selenium%20fd9b6728b41a4410bfcb000a04355cbf.md)
+
 study_3
 
 [Web_scraping](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Web_scraping%203ffa85ce8a1f4c5087000ece9b393c50.md)
