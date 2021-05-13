@@ -110,6 +110,8 @@ study_3
 
 [Logistic Regression use](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Logistic%20Regression%20use%20b6643581aa32416ca7db4a0f0185b5cb.md)
 
+[KMeans & PCA use](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/KMeans%20&%20PCA%20use%20939327f64a5a41268eea097879336b99.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
