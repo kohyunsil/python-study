@@ -127,5 +127,3 @@ MYSQL
 project
 
 [linear_regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/linear_regression%20c6256e81cd134514883522d1fdc53883.md)
-
-[side_project](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/side_project%200726eb882f80402eb7780618d6bd5b0f.md)
