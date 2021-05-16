@@ -74,6 +74,8 @@ study_2 / python, numpy, pandas
 
 [Selenium](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Selenium%20fd9b6728b41a4410bfcb000a04355cbf.md)
 
+[iterator_generator](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/iterator_generator%201f4b1d17e160412eaa1984ef31d2765a.md)
+
 study_3
 
 [Web_scraping](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Web_scraping%203ffa85ce8a1f4c5087000ece9b393c50.md)
