@@ -114,6 +114,8 @@ study_3
 
 [KMeans & PCA use](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/KMeans%20&%20PCA%20use%20939327f64a5a41268eea097879336b99.md)
 
+[Image segmentation & object detection](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Image%20segmentation%20&%20object%20detection%208f52261b089a4ddd8214ee50f3fcd5be.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
@@ -125,7 +127,3 @@ MYSQL
 [VIEW](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/VIEW%2000e84cf52b3946938d5bf28c10eedd96.md)
 
 [Trigger](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Trigger%20f2fe6cb7d9d5427fa6aef9ec57c08806.md)
-
-project
-
-[linear_regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/linear_regression%20c6256e81cd134514883522d1fdc53883.md)
