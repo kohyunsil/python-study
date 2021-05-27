@@ -78,8 +78,6 @@ study_2 / python, numpy, pandas
 
 study_3
 
-[Web_scraping](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Web_scraping%203ffa85ce8a1f4c5087000ece9b393c50.md)
-
 [practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/practice%20be0c7978ab3540db9655a8fe78737ec1.md)
 
 [Logistic Regression](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Logistic%20Regression%20e85ccf01bbfb4cc0b352d55178159532.md)
