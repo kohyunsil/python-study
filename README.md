@@ -114,6 +114,8 @@ study_3
 
 [Image segmentation & object detection](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Image%20segmentation%20&%20object%20detection%208f52261b089a4ddd8214ee50f3fcd5be.md)
 
+[recommendation system 1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/recommendation%20system%201%20ef4f017db469456f8e35bfb7d0380da9.md)
+
 MYSQL
 
 [DATABASE_1](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/DATABASE_1%20b69b0c81814a4304a9361a2a81fc162e.md)
