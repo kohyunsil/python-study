@@ -76,6 +76,8 @@ study_2 / python, numpy, pandas
 
 [iterator_generator](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/iterator_generator%201f4b1d17e160412eaa1984ef31d2765a.md)
 
+[Flask](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/Flask%20520e1347034c48e8a877e24423994de8.md)
+
 study_3
 
 [practice](Python%20Practice%204d95aad8d0ec4a37acbf0015ab27ba8f/practice%20be0c7978ab3540db9655a8fe78737ec1.md)
